@@ -1,0 +1,4 @@
+output dir: "data/daily"
+sites: 
+  - name: "NSE India Equity"
+    url: "https://www.nseindia.com/market-data/live-equity-market"
